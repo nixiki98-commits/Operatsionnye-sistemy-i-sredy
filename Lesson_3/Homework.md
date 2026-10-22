@@ -11,6 +11,7 @@
 ps -ef --forest
 ```
 Аргумент `--forest` строит дерево процессов.
+<img width="540" height="340" alt="image" src="https://github.com/user-attachments/assets/63f24ce1-f554-4010-8680-3c47fffb9865" />
 
 ### 1.2. Процессы не от root
 ```bash
